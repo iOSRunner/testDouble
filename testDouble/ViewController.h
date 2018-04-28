@@ -11,7 +11,6 @@
 //test
 //testFromDev
 //test from dev1
->>>>>>> dev1
 @interface ViewController : UIViewController
 
 
